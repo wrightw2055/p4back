@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'q4back',
     'rest_framework',
     'users',
+    'django_extensions'
 ]
 
 MIDDLEWARE = [

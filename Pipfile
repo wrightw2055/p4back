@@ -11,6 +11,7 @@ psycopg2-binary = "*"
 dj-database-url = "*"
 gunicorn = "*"
 djangorestframework = "*"
+django-extensions = "*"
 
 [requires]
 python_version = "3.6"
